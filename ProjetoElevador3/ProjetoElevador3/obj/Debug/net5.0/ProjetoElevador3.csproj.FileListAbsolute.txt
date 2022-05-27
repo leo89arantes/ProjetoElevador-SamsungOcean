@@ -1,0 +1,16 @@
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\bin\Debug\net5.0\ProjetoElevador3.exe
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\bin\Debug\net5.0\ProjetoElevador3.deps.json
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\bin\Debug\net5.0\ProjetoElevador3.runtimeconfig.json
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\bin\Debug\net5.0\ProjetoElevador3.runtimeconfig.dev.json
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\bin\Debug\net5.0\ProjetoElevador3.dll
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\bin\Debug\net5.0\ProjetoElevador3.pdb
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ProjetoElevador3.csproj.AssemblyReference.cache
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ProjetoElevador3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ProjetoElevador3.AssemblyInfoInputs.cache
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ProjetoElevador3.AssemblyInfo.cs
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ProjetoElevador3.csproj.CoreCompileInputs.cache
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ProjetoElevador3.dll
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\refint\ProjetoElevador3.dll
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ProjetoElevador3.pdb
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ProjetoElevador3.genruntimeconfig.cache
+C:\Users\arant\source\repos\ProjetoElevador3\ProjetoElevador3\obj\Debug\net5.0\ref\ProjetoElevador3.dll
