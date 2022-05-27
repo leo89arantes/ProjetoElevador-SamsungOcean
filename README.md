@@ -23,6 +23,6 @@ presentes nele. A classe também disponibiliza os seguintes métodos:
 
 ***Sair*** : que remove uma pessoa do elevador (só remove se houver alguém dentro dele);
 
-***Subir*** : que sobe um andar (não não se já estiver no último andar);
+***Subir*** : que sobe um andar (não sobe se já estiver no último andar);
 
-***Descer*** : que desce um andar (não dece se já estiver no térreo);
+***Descer*** : que desce um andar (não desce se já estiver no térreo);
